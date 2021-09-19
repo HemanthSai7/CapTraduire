@@ -4,13 +4,13 @@
  
  <h1>🍁 Cap-Traduire</h1>
 
-Communication is vital in today's era. Even more important is to have a healthy conversation in official spaces. We come across people hailing from various backgrounds, speaking various languages.
+Communication is vital in today's era. People who wish to travel the world often face an obstruction in speaking to people in their native language. Well, not anymore.
 
-> ### **CAPTRADUIRE** Translates what you speak, for you to have an uninterrupted conversation.  
+> ### **CAPTRADUIRE** Translates what you speak, for you, to have an uninterrupted conversation.  
 
    - It takes the input in the form of English 
-   - Gives output in the desired language on a single click. This program helps communication between two parties easy.
-  
+   - Gives output in the desired language on a single click. 
+   - This program helps communication between two parties easy.
    - This software assists you in translating a language into four distinct languages
   
 <br>
@@ -20,7 +20,7 @@ Communication is vital in today's era. Even more important is to have a healthy 
   
  > #### [Set up your environment](./INSTRUCTIONS.md)
  
- After your environment setup complete, follow these steps.
+ After your environment setup is complete, follow these steps.
 
    - Open the App<br>
       The app's layout may be seen here.
